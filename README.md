@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there
+My name is Matthew Buglass (he/him/his) and I am a Computer Science Honours student at the [University of Sasaktchewan](https://www.cs.usask.ca/). In 2021 I attained a Bachelor of Commerce from the [Edwards School of Business](https://www.edwards.usask.ca/). This spring I am starting an internship position at [Andgo Systems](https://www.andgosystems.com/).
+
+## Development Projects
+- Play-by-Play data scrapper for the CFL
+- [Canadian Curling data scraper](https://github.com/matthew-buglass/CurlingScraperDocs)
+- [Bathimetric Mapping Visualization](https://github.com/matthew-buglass/bathymetric_mapping)
+- Software Development for [Turnkey](https://www.turnkeyapp.ca/)
+- [USST RADSAT Project](https://usst.ca/cubesat/)
+- [Sasktoon Public Transit Analysis](https://matthewbuglass.com/research_projects/)
+
 
 <!--
 **matthew-buglass/matthew-buglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
